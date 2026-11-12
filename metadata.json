@@ -1,0 +1,6 @@
+{
+  "name": "Make Brand Shymkent — Аяқ киім интернет-дүкені",
+  "description": "Make Brand Shymkent: Premium Class кроссовкалар мен аяқ киімдер интернет-дүкені. Өлшем таңдау, WhatsApp арқылы жылдам тапсырыс, Шымкент және Қазақстан бойынша жеткізу.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
